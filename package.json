@@ -1,0 +1,17 @@
+{
+  "name": "devopslearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:RitikSondhi420/devOPSLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
